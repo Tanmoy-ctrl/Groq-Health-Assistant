@@ -25,7 +25,7 @@ An AI-powered Health Assistant chatbot built using **Python, Streamlit, and Groq
 ```text
 groq-health-assistant/
 │
-├── app.py
+├── groq_app.py
 ├── requirements.txt
 ├── .env
 ├── .gitignore
